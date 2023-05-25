@@ -26,19 +26,19 @@
     "url": "https://corp.top/zh",
     "icon": "https://icons.duckduckgo.com/ip3/corp.top.ico",
     "slug": "corp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 2234,
-    "timeWeek": 1876,
-    "timeMonth": 1349,
-    "timeYear": 1232,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1222,
+    "timeDay": 1432,
+    "timeWeek": 1720,
+    "timeMonth": 1325,
+    "timeYear": 1222,
     "dailyMinutesDown": {
-      "2023-05-25": 0
+      "2023-05-25": 12
     }
   },
   {
