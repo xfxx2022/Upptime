@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.aidengrong.top.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "97.09%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.57%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.13%",
     "time": 380,
     "timeDay": 398,
     "timeWeek": 372,
@@ -26,7 +26,7 @@
     "url": "https://corp.top/zh",
     "icon": "https://icons.duckduckgo.com/ip3/corp.top.ico",
     "slug": "corp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1876,
     "timeMonth": 1349,
     "timeYear": 1232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "Google",
